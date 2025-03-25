@@ -118,6 +118,8 @@ LOGGING = {
     },
 }
 
+#pruthviraj
+
 # Security Enhancements
 SECURE_SSL_REDIRECT = True  # Redirect HTTP to HTTPS
 SESSION_COOKIE_SECURE = True  # Ensure cookies are only sent over HTTPS
